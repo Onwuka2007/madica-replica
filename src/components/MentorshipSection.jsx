@@ -1,6 +1,6 @@
 import { ArrowUpRight } from 'lucide-react';
 import { useHomeContent } from '../context/HomeContext';
-import List from '../assets/ListItem.png';
+import List from '../assets/Listitem.png';
 import team from '../assets/team.png';
 
 const mentorImages = [List, List, List, List];
